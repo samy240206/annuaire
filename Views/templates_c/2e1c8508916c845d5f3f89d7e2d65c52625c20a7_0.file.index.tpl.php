@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.1.0, created on 2026-04-01 14:18:37
+/* Smarty version 4.1.0, created on 2026-04-10 08:48:28
   from 'C:\Users\belkadi\Documents\demo-MVC\Views\templates\index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.1.0',
-  'unifunc' => 'content_69cd293d8ce9c0_81301863',
+  'unifunc' => 'content_69d8b95c55deb5_67675169',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '2e1c8508916c845d5f3f89d7e2d65c52625c20a7' => 
     array (
       0 => 'C:\\Users\\belkadi\\Documents\\demo-MVC\\Views\\templates\\index.tpl',
-      1 => 1775053115,
+      1 => 1775655856,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_69cd293d8ce9c0_81301863 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69d8b95c55deb5_67675169 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- Template de base avec le moteur de template Smarty -->
 <!DOCTYPE html>
 <html>
@@ -35,6 +35,7 @@ function content_69cd293d8ce9c0_81301863 (Smarty_Internal_Template $_smarty_tpl)
 <a class="nav-item nav-link" href="/index.php?page=categorie">Catégories</a>
 <a class="nav-item nav-link" href="#">Pricing</a>
 <a class="nav-item nav-link disabled" href="#">Disabled</a>
+
 </div>
     <head>
         <title><?php echo $_smarty_tpl->tpl_vars['vue']->value["titre"];?>

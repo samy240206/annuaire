@@ -12,6 +12,7 @@
 <a class="nav-item nav-link" href="/index.php?page=categorie">Catégories</a>
 <a class="nav-item nav-link" href="#">Pricing</a>
 <a class="nav-item nav-link disabled" href="#">Disabled</a>
+
 </div>
     <head>
         <title>{$vue["titre"]}</title>
