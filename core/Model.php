@@ -29,4 +29,10 @@ class Model {
         return $this->_pdo->query($sql);
     }
 
+    public function delete(int $unId) {
+    $sth = $this->_pdo->prepare("DELETE FROM " . $this->_table . " WHERE id = :id");
+    $sth->bindParam(':id', $unId, PDO::PARAM_INT);
+    return $sth->execute();
+}
+
 }
