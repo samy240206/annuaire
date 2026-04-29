@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.1.0, created on 2026-04-23 20:51:04
-  from 'C:\Users\Malco\OneDrive\Documents\annuaire\Views\templates\Accueil\list.tpl' */
+/* Smarty version 4.1.0, created on 2026-04-29 12:49:37
+  from 'C:\Users\belkadi\Documents\demo-MVC\Views\templates\Accueil\list.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.1.0',
-  'unifunc' => 'content_69ea6a18533796_90221548',
+  'unifunc' => 'content_69f1fe6115a952_64519857',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    'e018b0c3cf567230e37a033b13214f6b19d70289' => 
+    '803fafe75e19bbb938888b25bb92d5482ca4f04d' => 
     array (
-      0 => 'C:\\Users\\Malco\\OneDrive\\Documents\\annuaire\\Views\\templates\\Accueil\\list.tpl',
-      1 => 1776970231,
+      0 => 'C:\\Users\\belkadi\\Documents\\demo-MVC\\Views\\templates\\Accueil\\list.tpl',
+      1 => 1777466255,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_69ea6a18533796_90221548 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69f1fe6115a952_64519857 (Smarty_Internal_Template $_smarty_tpl) {
 ?><p><?php echo $_smarty_tpl->tpl_vars['vue']->value['description'];?>
 </p>
 

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.1.0, created on 2026-04-23 20:57:21
-  from 'C:\Users\Malco\OneDrive\Documents\annuaire\Views\templates\site\search.tpl' */
+/* Smarty version 4.5.6, created on 2026-04-29 13:57:56
+  from 'C:\Users\belkadi\Documents\demo-MVC\Views\templates\site\search.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.1.0',
-  'unifunc' => 'content_69ea6b91c44703_56001271',
+  'version' => '4.5.6',
+  'unifunc' => 'content_69f20e64a71958_03260956',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '3b1603a5d9daa73f42fe4388e2e699e8d8f58552' => 
+    'ec970961479c0f47da12bd8b321d530bc0f4def8' => 
     array (
-      0 => 'C:\\Users\\Malco\\OneDrive\\Documents\\annuaire\\Views\\templates\\site\\search.tpl',
-      1 => 1776969372,
+      0 => 'C:\\Users\\belkadi\\Documents\\demo-MVC\\Views\\templates\\site\\search.tpl',
+      1 => 1777466255,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_69ea6b91c44703_56001271 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69f20e64a71958_03260956 (Smarty_Internal_Template $_smarty_tpl) {
 ?><h2>Rechercher un site</h2>
 
 <form method="GET" action="index.php">

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.1.0, created on 2026-04-01 13:37:34
+/* Smarty version 4.5.6, created on 2026-04-29 13:57:55
   from 'C:\Users\belkadi\Documents\demo-MVC\Views\templates\categorie\list.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
-  'version' => '4.1.0',
-  'unifunc' => 'content_69cd1f9edf3721_23388863',
+  'version' => '4.5.6',
+  'unifunc' => 'content_69f20e6393a975_49533848',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_69cd1f9edf3721_23388863 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69f20e6393a975_49533848 (Smarty_Internal_Template $_smarty_tpl) {
 ?><h2><a class="btn btn-primary" href="index.php?page=categorie&action=add">Ajouter</a></h2>
 <p><?php echo $_smarty_tpl->tpl_vars['vue']->value['description'];?>
 <p>    
